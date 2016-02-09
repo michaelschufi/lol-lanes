@@ -1,0 +1,25 @@
+body {
+	font-family: sans-serif;
+}
+
+#content {
+	margin: 10vh auto;
+	width: 80vw;
+	text-align: center;
+}
+
+img {
+	margin-left: 1vw;
+}
+
+img:first-child {
+	margin-left: 0;
+}
+
+.inactive {
+	opacity: 0.65;
+}
+
+button {
+	margin: 2vh 0;
+}
