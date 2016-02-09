@@ -10,6 +10,7 @@ $( "button" ).click( function( event ) {
 		
 		$( "#primary" ).attr( "src", "assets/" + laneSequence[0] + ".png");
 		$( "#secondary" ).attr( "src", "assets/" + laneSequence[1] + ".png");
+		$( ".result" ).removeClass( "hidden" )
 	} )
 } )
 

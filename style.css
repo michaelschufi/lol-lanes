@@ -23,3 +23,7 @@ img:first-child {
 button {
 	margin: 2vh 0;
 }
+
+.hidden {
+	display: none;
+}
