@@ -1,5 +1,7 @@
+A tool for League of Legends.
+
 #Idea
-Since I rather want a "random" option than a "fill" option, also known as "Support" :P, in League of Legends I created this little tool.
+Since I rather want a "random" option than a "fill" option, also known as "Support" :P, I created this little tool.
 
 It randomly suggests which lanes you should queue up for (asking random.org).
 
